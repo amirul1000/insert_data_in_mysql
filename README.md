@@ -1,7 +1,7 @@
 "# insert_data_in_mysql" 
 
 
-INSERT DATA INTO MYSQL Table with PHP SCRIPT & Submitted HTML ForM DATA
+INSERT DATA INTO MYSQL Table with PHP SCRIPT & Submitted HTML FORM DATA
 ========================================================================
 
 1.Connect with database
